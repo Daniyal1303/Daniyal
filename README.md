@@ -13,7 +13,6 @@
 <br>
 <br>
 
-
 ###
 
 <h2 align="center" style="margin-top: 420px;">💼 Technical Skills 💼</h2>
@@ -80,33 +79,36 @@
 <br>
 <br>
 
-
 ###
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
 ###
+
  <div align="center" dir="auto">
    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width="390" src="https://camo.githubusercontent.com/b81ba9175a20138ef9776d67a1d7f9f292e7c5772bce0b19e1072043c1d6d7db/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d41726565624d756768616c2673686f775f69636f6e733d74727565267468656d653d726561637426626f726465725f636f6c6f723d36316461666226686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Daniyal1303&amp;show_icons=true&amp;theme=react&amp;border_color=61dafb&amp;hide_border=true" style="max-width: 100%;">
+    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=Daniyal1303&show_icons=true&theme=react&border_color=61dafb&hide_border=true" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img align="left" width="390"
+      src="https://streak-stats.demolab.com/?user=Daniyal1303&theme=react&border=61dafb&hide_border=true"
+      alt="Daniyal1303 Stats"
+      style="max-width: 100%;">
     </a>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-     <img align="left" width="390"     src="https://camo.githubusercontent.com/54ddf30b79ebeab8aa48c29a7cdd47fca8e5512d79c572068a4ed1739a38c742/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d41726565624d756768616c267468656d653d726561637426626f726465723d36316461666226686964655f626f726465723d74727565" alt="Daniyal1303 Stats" data-canonical-src="https://streak-stats.demolab.com/?user=Daniyal1303&amp;theme=react&amp;border=61dafb&amp;hide_border=true" style="max-width: 100%;">
-   </a>
 </div>
 
 ###
+
 <div align="center" dir="auto">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="200" align="center" src="https://camo.githubusercontent.com/f2732c75e61491c2d1a95ff917e2717f127ee532ba6513d27e78d96d39051375/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d41726565624d756768616c26686964653d632532332c706f7765727368656c6c2c4d617468656d61746963612c527562792c4f626a6563746976652d432c4f626a6563746976652d432532622532622c43756461267469746c655f636f6c6f723d36316461666226746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d3631646166622662675f636f6c6f723d323032333261266c616e67735f636f756e743d38266c61796f75743d636f6d7061637426626f726465725f636f6c6f723d36316461666226686964655f626f726465723d747275652673697a655f7765696768743d302e3526636f756e745f7765696768743d302e35" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyal1303l&amp;hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&amp;title_color=61dafb&amp;text_color=ffffff&amp;icon_color=61dafb&amp;bg_color=20232a&amp;langs_count=8&amp;layout=compact&amp;border_color=61dafb&amp;hide_border=true&amp;size_weight=0.5&amp;count_weight=0.5" style="max-width: 100%; height: auto; max-height: 200px;">
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyal1303&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" style="max-width: 100%; height: auto; max-height: 200px;">
     </a>
 </div>
 
 ###
+
 <p dir="auto">
- <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/53df0c2eedbc72574e923523dd95d14a0b5966a55d888db112b6cff0e7cb6391/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d41726565624d756768616c267468656d653d72656163742d6461726b2662675f636f6c6f723d32303233326126686964655f626f726465723d74727565">
-<img src="https://camo.githubusercontent.com/53df0c2eedbc72574e923523dd95d14a0b5966a55d888db112b6cff0e7cb6391/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d41726565624d756768616c267468656d653d72656163742d6461726b2662675f636f6c6f723d32303233326126686964655f626f726465723d74727565" width="100%" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=Daniyal1303&amp;theme=react-dark&amp;bg_color=20232a&amp;hide_border=true" style="max-width: 100%;">
-</a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-activity-graph.vercel.app/graph?username=Daniyal1303&theme=react-dark&bg_color=20232a&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniyal1303&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" style="max-width: 100%;">
+  </a>
 </p>
-
-
