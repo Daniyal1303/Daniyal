@@ -85,7 +85,7 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;padding-left: 24px; padding-right: 24px; margin-bottom: 32px;">
+<div align="center" style="display: flex; justify-content:center; align-items:center;padding-left: 24px; padding-right: 24px; margin-bottom: 32px;">
  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source" >
     <img  
       src="https://streak-stats.demolab.com/?user=Daniyal1303&theme=react&border=61dafb&hide_border=true"
