@@ -85,21 +85,22 @@
 
 ###
 
- <div align="center" dir="auto">
-   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=Daniyal1303&show_icons=true&theme=react&border_color=61dafb&hide_border=true" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img align="left" width="390"
+<br>
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;padding-left: 24px; padding-right: 24px; margin-bottom: 32px;">
+ <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img  
       src="https://streak-stats.demolab.com/?user=Daniyal1303&theme=react&border=61dafb&hide_border=true"
       alt="Daniyal1303 Stats"
       style="max-width: 100%;">
-    </a>
+  </a>  
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img   src="https://github-readme-stats.vercel.app/api?username=Daniyal1303&show_icons=true&theme=react&border_color=61dafb&hide_border=true" style="max-width: 100%;">
+  </a> 
 </div>
 
 ###
 
-<div align="center" dir="auto">
+<div align="center" style="max-width: 70%;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyal1303&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" style="max-width: 100%; height: auto; max-height: 200px;">
     </a>
