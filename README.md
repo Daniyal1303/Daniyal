@@ -85,18 +85,18 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content:center; align-items:start;padding-left: 24px; padding-right: 24px; margin-bottom: 32px;">
+<div align="center" style="display: flex; justify-content:center; align-items:start;padding-left: 24px; padding-right: 24px;">
  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source" >
     <img  
       src="https://streak-stats.demolab.com/?user=Daniyal1303&theme=react&border=61dafb&hide_border=true"
       alt="Daniyal1303 Stats"
-      width="400"
       style="max-width: 100%;">
   </a>  
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img   src="https://github-readme-stats.vercel.app/api?username=Daniyal1303&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
-           width="400"
-           style="max-width: 100%;">
+    <img   
+      src="https://github-readme-stats.vercel.app/api?username=Daniyal1303&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
+      alt="Daniyal1303"
+      style="max-width: 100%;">
   </a> 
 </div>
 
